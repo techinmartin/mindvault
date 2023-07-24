@@ -80,8 +80,8 @@ html {
   /* 2 */
   -webkit-text-size-adjust: 100%;
   /* 3 */
-  background: #fff;
-  color: #323247;
+  background: #1d1d1d;
+  color: #FEB900;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
 }
@@ -329,7 +329,7 @@ h6, .uk-h6,
   margin: 0 0 20px 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: bold;
-  color: #333;
+  color: #FEB900;
   text-transform: none;
 }
 
