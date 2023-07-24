@@ -4376,7 +4376,7 @@ select.uk-form-width-xsmall {
  * Required for `a`.
  */
 .uk-search .uk-search-icon:hover {
-  color: #6e747c;
+  color: #feb900;
 }
 
 /*
@@ -5002,13 +5002,13 @@ ul.uk-nav-sub {
 /* Toggle
  ========================================================================== */
 .uk-navbar-toggle {
-  color: #323247;
+  color: #feb900;
 }
 
 .uk-navbar-toggle:hover,
 .uk-navbar-toggle:focus,
 .uk-navbar-toggle.uk-open {
-  color: #05c896;
+  color: #ffffff;
   outline: none;
   text-decoration: none;
 }
