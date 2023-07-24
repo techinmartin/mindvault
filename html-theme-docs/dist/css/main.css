@@ -4979,7 +4979,7 @@ ul.uk-nav-sub {
 .uk-navbar-nav > li:hover > a,
 .uk-navbar-nav > li > a:focus,
 .uk-navbar-nav > li > a.uk-open {
-  color: #05c896;
+  color: #feb900;
   outline: none;
 }
 
@@ -4990,7 +4990,7 @@ ul.uk-nav-sub {
 
 /* Active */
 .uk-navbar-nav > li.uk-active > a {
-  color: #05c896;
+  color: #feb900;
 }
 
 /* Item
@@ -5153,7 +5153,7 @@ ul.uk-nav-sub {
 
 /* Active */
 .uk-navbar-dropdown-nav > li.uk-active > a {
-  color: #05c896;
+  color: #feb900;
 }
 
 /*
@@ -5278,7 +5278,7 @@ ul.uk-nav-sub {
 
 /* Active */
 .uk-subnav > .uk-active > a {
-  color: #323247;
+  color: #feb900;
 }
 
 /* Divider modifier
@@ -5523,14 +5523,14 @@ ul.uk-nav-sub {
 /* Hover + Focus */
 .uk-tab > * > a:hover,
 .uk-tab > * > a:focus {
-  color: #323247;
+  color: #feb900;
   text-decoration: none;
 }
 
 /* Active */
 .uk-tab > .uk-active > a {
   color: #333;
-  border-color: #05c896;
+  border-color: #feb900;
 }
 
 /* Disabled */
@@ -6004,7 +6004,7 @@ ul.uk-nav-sub {
 .uk-dropdown-nav > li > a:hover,
 .uk-dropdown-nav > li > a:focus,
 .uk-dropdown-nav > li.uk-active > a {
-  color: #323247;
+  color: #feb900;
 }
 
 /*
@@ -6031,7 +6031,7 @@ ul.uk-nav-sub {
 .uk-dropdown-nav .uk-nav-sub a:hover,
 .uk-dropdown-nav .uk-nav-sub a:focus,
 .uk-dropdown-nav .uk-nav-sub li.uk-active > a {
-  color: #323247;
+  color: #feb900;
 }
 
 /* Direction / Alignment modifiers
