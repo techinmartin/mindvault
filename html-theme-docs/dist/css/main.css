@@ -2538,15 +2538,15 @@ select.uk-form-width-xsmall {
 
 .uk-button-primary-outline {
   background-color: transparent;
-  color: #05c896;
-  border: 1px solid #05c896;
+  color: #feb900;
+  border: 1px solid #feb900;
 }
 
 .uk-button-primary-outline:hover,
 .uk-button-primary-outline:focus {
-  background-color: #05c896;
+  background-color: #feb900;
   color: #fff;
-  border: 1px solid #05c896;
+  border: 1px solid #fff;
 }
 
 .uk-button-primary-outline:active,
@@ -2578,22 +2578,22 @@ select.uk-form-width-xsmall {
 
 .uk-button-success-outline {
   background-color: transparent;
-  color: #403e56;
-  border: 1px solid #403e56;
+  color: #feb900;
+  border: 1px solid #feb900;
 }
 
 .uk-button-success-outline:hover,
 .uk-button-success-outline:focus {
-  background-color: #403e56;
+  background-color: #feb900;
   color: #fff;
-  border: 1px solid #403e56;
+  border: 1px solid #feb900;
 }
 
 .uk-button-success-outline:active,
 .uk-button-success-outline.uk-active {
-  background-color: #403e56;
+  background-color: #feb900;
   color: #fff;
-  border: 1px solid #403e56;
+  border: 1px solid #feb900;
 }
 
 .uk-button-warning-outline {
@@ -6670,7 +6670,7 @@ ul.uk-nav-sub {
   box-sizing: border-box;
   width: 320px;
   padding: 20px 20px;
-  background: #fff;
+  background: #1d1d1d;
   /* 3 */
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
@@ -6991,7 +6991,7 @@ ul.uk-nav-sub {
 
 /* Active */
 .uk-iconnav > .uk-active > a {
-  color: #323247;
+  color: #feb900;
 }
 
 /* Modifier: 'uk-iconnav-vertical'
@@ -11856,12 +11856,12 @@ ul.doc-nav {
 .uk-card-secondary > :not([class*='uk-card-media']) .uk-button-primary.uk-active,
 .uk-overlay-primary .uk-button-primary.uk-active {
   background-color: #e6e6e6;
-  color: #323247;
+  color: #feb900;
 }
 
 .uk-light .uk-button-secondary, .uk-section-primary:not(.uk-preserve-color) .uk-button-secondary, .uk-section-secondary:not(.uk-preserve-color) .uk-button-secondary, .uk-tile-primary:not(.uk-preserve-color) .uk-button-secondary, .uk-tile-secondary:not(.uk-preserve-color) .uk-button-secondary, .uk-card-primary.uk-card-body .uk-button-secondary, .uk-card-primary > :not([class*='uk-card-media']) .uk-button-secondary, .uk-card-secondary.uk-card-body .uk-button-secondary, .uk-card-secondary > :not([class*='uk-card-media']) .uk-button-secondary, .uk-overlay-primary .uk-button-secondary {
   background-color: #fff;
-  color: #323247;
+  color: #feb900;
 }
 
 .uk-light .uk-button-secondary:hover, .uk-section-primary:not(.uk-preserve-color) .uk-button-secondary:hover, .uk-section-secondary:not(.uk-preserve-color) .uk-button-secondary:hover, .uk-tile-primary:not(.uk-preserve-color) .uk-button-secondary:hover, .uk-tile-secondary:not(.uk-preserve-color) .uk-button-secondary:hover, .uk-card-primary.uk-card-body .uk-button-secondary:hover, .uk-card-primary > :not([class*='uk-card-media']) .uk-button-secondary:hover, .uk-card-secondary.uk-card-body .uk-button-secondary:hover, .uk-card-secondary > :not([class*='uk-card-media']) .uk-button-secondary:hover, .uk-overlay-primary .uk-button-secondary:hover,
