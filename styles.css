@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif; /* Substitute for San Francisco font */
+    color: #333; /* Dark grey text */
+    background-color: #fff; /* White background */
+    line-height: 1.6;
+    padding: 20px;
+}
+
+nav {
+    width: 200px; /* Fixed width for the sidebar */
+    position: fixed; /* Sidebar stays in place when scrolling */
+    height: 100%; /* Full height */
+    left: 0; /* Align to the left */
+    background-color: #f4f4f4; /* Light grey background */
+    padding: 20px;
+    overflow: auto; /* Add scroll if content is too long */
+}
+
+nav ul {
+    list-style: none; /* Remove default list styling */
+}
+
+nav ul li a {
+    text-decoration: none; /* Remove default link underline */
+    color: #333; /* Dark grey links */
+}
+
+nav ul li a:hover {
+    color: #007BFF; /* Blue link color on hover */
+}
+
+main {
+    margin-left: 220px; /* Make room for the sidebar */
+    padding: 20px;
+}
